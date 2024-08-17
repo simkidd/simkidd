@@ -39,7 +39,7 @@ Hello! I'm John Mason, a dedicated developer passionate about building scalable,
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dracula)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=simkidd&show_icons=true&theme=dracula)
 
 ## 🏗️ Recent Projects
 
