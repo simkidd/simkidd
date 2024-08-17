@@ -46,12 +46,6 @@ Hello! I'm John Mason, a dedicated developer passionate about building scalable,
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=simkidd&layout=compact&theme=dracula)
 
-## 🏗️ Recent Projects
-
-- **E-commerce Platform**: A comprehensive platform with advanced inventory management and POS features, built using React, Vite, and Redux Toolkit.
-- **Next.js Dashboard**: An interactive admin dashboard for real-time data management and visualization.
-- **Node.js API Service**: A robust API service for handling authentication and product data, utilizing GraphQL and Apollo.
-
 ## 🎯 2024 Goals
 
 - **Expand Knowledge:** Dive into **cloud computing** with **AWS** and **Azure** to enhance my development skills.
