@@ -60,7 +60,7 @@ Hello! I'm John Mason, a dedicated developer passionate about building scalable,
 
 ## 🌍 Connect with Me
 
-- **Email:** [Your Email]
-- **LinkedIn:** [Your LinkedIn Profile]
-- **Twitter:** [Your Twitter Handle]
+- **Email:** [johnmsn22@gmail.com](mailto:johnmsn22@gmail.com)
+- **LinkedIn:** [John Mason](https://www.linkedin.com/in/mason10396)
+- **Twitter:** [@iOniDev](https://twitter.com/iOniDev)
 
