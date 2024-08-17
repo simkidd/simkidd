@@ -14,6 +14,7 @@ Hello! I'm John Mason, a dedicated developer passionate about building scalable,
 ![NextUI](https://img.shields.io/badge/NextUI-000000?style=for-the-badge&logo=nextui&logoColor=white)
 ![Nuxt3](https://img.shields.io/badge/Nuxt3-00C58E?style=for-the-badge&logo=nuxt.js&logoColor=white)
 ![Nuxt UI](https://img.shields.io/badge/Nuxt_UI-000000?style=for-the-badge&logo=nuxt.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-42b883?style=for-the-badge&logo=vue.js&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
 **Backend:**
@@ -40,6 +41,9 @@ Hello! I'm John Mason, a dedicated developer passionate about building scalable,
 ## 📈 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=simkidd&show_icons=true&theme=dracula)
+
+## 🌐 Top Languages
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=simkidd&layout=compact&theme=dracula)
 
 ## 🏗️ Recent Projects
