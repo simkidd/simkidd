@@ -39,7 +39,7 @@ Hello! I'm John Mason, a dedicated developer passionate about building scalable,
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&color=2496ED&labelColor=000000)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white&color=2088FF&labelColor=000000)
 ![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white&color=000000&labelColor=000000)
-![Zustand](https://img.shields.io/badge/Zustand-007FFF?style=for-the-badge&logo=generic&logoColor=white&color=007FFF&labelColor=000000)
+![Zustand](https://img.shields.io/badge/Zustand-007FFF?style=for-the-badge&logo=zustand&logoColor=white&color=007FFF&labelColor=000000)
 ![ShadCN](https://img.shields.io/badge/ShadCN-FF4081?style=for-the-badge&logo=shadcn&logoColor=white&color=FF4081&labelColor=000000)
 
 **Version Control:**
