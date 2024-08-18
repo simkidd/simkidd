@@ -5,7 +5,7 @@ Hello! I'm John Mason, a dedicated developer passionate about building scalable,
 ## 🔧 Tech Stack
 
 **Frontend:**
-- ![React](https://img.shields.io/badge/React-61DAFB?style=popout&logo=react&logoColor=white)
+- ![React](https://img.shields.io/badge/React-61DAFB?style=social&logo=react&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
